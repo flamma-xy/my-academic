@@ -228,17 +228,17 @@ sections:
           company_url: ''
           company_logo: jaist
           location: 
-          date_start: '2020-3-27'
+          date_start: '2020-03-27'
           date_end: 
           description: 
-        # - title: B.Eng.
-        #   company: University X
-        #   company_url: ''
-        #   company_logo: hg
-        #   location: 
-        #   date_start: '2015-9-1'
-        #   date_end: 
-        #   description:
+        - title: B.Eng.
+          company: University X
+          company_url: ''
+          company_logo: hg
+          location: 
+          date_start: '2015-09-01'
+          date_end: 
+          description:
     design:
       columns: '2'
   - block: contact

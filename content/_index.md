@@ -231,13 +231,13 @@ sections:
         date_end: 
         description: 
       - title: B.Eng.
-          company: University X
-          company_url: ''
-          company_logo: hg
-          location: 
-          date_start: 
-          date_end: 
-          description:
+        company: University X
+        company_url: ''
+        company_logo: hg
+        location: 
+        date_start: 
+        date_end: 
+        description:
     design:
       columns: '2'
   - block: contact

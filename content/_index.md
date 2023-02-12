@@ -203,41 +203,41 @@ sections:
   - block: experience
     id: education
     content:
-    title: Education
-    # Date format for experience
-    #   Refer to https://wowchemy.com/docs/customization/#date-format
-    date_format: Jan 2006
-    # Experiences.
-    #   Add/remove as many `experience` items below as you like.
-    #   Required fields are `title`, `company`, and `date_start`.
-    #   Leave `date_end` empty if it's your current employer.
-    #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-    items:
-      - title: PhD
-        company: Tokyo Institute of Technology
-        company_url: ''
-        company_logo: tokyotech
-        location: 
-        date_start: '2021-01-01'
-        date_end: ''
-        description: |2-
-            Responsibilities include:
-      - title: MSc
-        company: University X
-        company_url: ''
-        company_logo: jaist
-        location: 
-        date_start: '2020-3-27'
-        date_end: 
-        description: 
-      - title: B.Eng.
-        company: University X
-        company_url: ''
-        company_logo: hg
-        location: 
-        date_start: '2015-9-1'
-        date_end: 
-        description:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: PhD
+          company: Tokyo Institute of Technology
+          company_url: ''
+          company_logo: tokyotech
+          location: 
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+        - title: MSc
+          company: University X
+          company_url: ''
+          company_logo: jaist
+          location: 
+          date_start: '2020-3-27'
+          date_end: 
+          description: 
+        - title: B.Eng.
+          company: University X
+          company_url: ''
+          company_logo: hg
+          location: 
+          date_start: '2015-9-1'
+          date_end: 
+          description:
     design:
       columns: '2'
   - block: contact

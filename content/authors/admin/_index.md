@@ -22,7 +22,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I use this page to blog about natural language processing and programming techniques
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -31,10 +31,10 @@ interests:
   - 
 
 # Education to show in About widget
-education: Tokyo tech
+education: 
   courses:
     - course: 
-      institution: Tokyo Tech
+      institution: 
       year: 
     - course: 
       institution: 
@@ -79,4 +79,5 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I use this page to blog about natural language processing and programming techniques
 

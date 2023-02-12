@@ -221,6 +221,8 @@ sections:
           location: 
           date_start: '2021-01-01'
           date_end: ''
+          advisor: A
+          advisor_url: 'https://www.titech.ac.jp/english'
           description: |2-
               Responsibilities include:
         - title: MSc

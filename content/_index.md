@@ -133,7 +133,7 @@ sections:
   #   design:
   #     columns: '2'
   - block: collection
-    id: blog
+    id: posts
     content:
       title: Recent Posts
       subtitle: ''

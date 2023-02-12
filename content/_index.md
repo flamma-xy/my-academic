@@ -222,7 +222,7 @@ sections:
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              [Responsibilities include](https://www.titech.ac.jp/english)
+              Responsibilities include:
         - title: MSc
           company: University X
           company_url: ''

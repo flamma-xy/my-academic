@@ -223,7 +223,7 @@ sections:
           date_end: ''
           advisor: 'https://wowchemy.com/docs/content/writing-markdown-latex/#links'
           description: |2-
-              Responsibilities include: [a](https://www.titech.ac.jp/english)
+              Responsibilities include: [**_a_**](https://www.titech.ac.jp/english)
         - title: MSc
           company: University X
           company_url: ''

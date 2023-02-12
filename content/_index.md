@@ -218,13 +218,12 @@ sections:
           company: Tokyo Institute of Technology
           company_url: 'https://www.titech.ac.jp/english'
           company_logo: tokyotech
-          location: Tokyo,Japan
+          location: Tokyo, Japan
           date_start: '2021-01-01'
           date_end: ''
-          company: A good 
-          company_url: 'https://www.titech.ac.jp/english'
+          advisor: 'https://wowchemy.com/docs/content/writing-markdown-latex/#links'
           description: |2-
-              Responsibilities include:
+              Responsibilities include: [a](https://www.titech.ac.jp/english)
         - title: MSc
           company: University X
           company_url: ''

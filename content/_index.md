@@ -216,7 +216,7 @@ sections:
       items:
         - title: PhD
           company: Tokyo Institute of Technology
-          company_url: ''
+          company_url: 'https://www.titech.ac.jp/english'
           company_logo: tokyotech
           location: 
           date_start: '2021-01-01'

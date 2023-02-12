@@ -241,7 +241,7 @@ sections:
       subtitle:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
+      # # Contact (add or remove contact options as necessary)
       email: flammaxiong@gmail.com
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
@@ -269,9 +269,9 @@ sections:
       #     icon_pack: fas
       #     name: Zoom Me
       #     link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
+      # # Automatically link email and phone or display as text?
       autolink: true
-      Email form provider
+      # # Email form provider
       form:
         provider: netlify
         formspree:

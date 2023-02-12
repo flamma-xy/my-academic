@@ -218,10 +218,10 @@ sections:
           company: Tokyo Institute of Technology
           company_url: 'https://www.titech.ac.jp/english'
           company_logo: tokyotech
-          location: 
+          location: Tokyo,Japan
           date_start: '2021-01-01'
           date_end: ''
-          advisor: A
+          advisor: A good 
           advisor_url: 'https://www.titech.ac.jp/english'
           description: |2-
               Responsibilities include:

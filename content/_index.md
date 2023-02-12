@@ -215,7 +215,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: PhD
-          company: Tokyo Institute of Technology
+          company: [Tokyo Institute of Technology](https://www.titech.ac.jp/english)
           company_url: ''
           company_logo: tokyotech
           location: 

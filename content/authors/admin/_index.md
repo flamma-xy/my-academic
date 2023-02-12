@@ -7,8 +7,8 @@ first_name: Walter
 last_name: White
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,7 +22,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I use this page to blog about natural language processing and programming techniques
 
 # Interests to show in About widget
 interests:
@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: 
-      institution: 
+      institution: Tokyo Tech
       year: 
     - course: 
       institution: 
@@ -51,27 +51,27 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: 
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: 
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: 
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: 
   - icon: github
     icon_pack: fab
     link: 
-  - icon: linkedin
-    icon_pack: fab
-    link: 
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

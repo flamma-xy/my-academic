@@ -14,7 +14,7 @@ last_name: White
 superuser: true
 
 # Role/position/tagline
-role: 
+role: I use this page to blog about natural language processing and programming techniques
 
 # Organizations/Affiliations to show in About widget
 organizations:

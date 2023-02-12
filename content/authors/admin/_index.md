@@ -31,7 +31,7 @@ interests:
   - 
 
 # Education to show in About widget
-education:
+education: Tokyo tech
   courses:
     - course: 
       institution: Tokyo Tech

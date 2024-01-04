@@ -40,7 +40,7 @@ categories:
   - paper_reading
   
 ---
-![Aaron Swartz](/Users/xiongye/manuscript/mypage/content/post/getting-started)
+![Aaron Swartz](/mypage/content/post/getting-started/fea.jpg)
 
 ```python
 import libr

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Walter White
+title: Flamma
 
 # Full name (for SEO)
-first_name: Walter
-last_name: White
+first_name: Flamma
+last_name: 
 
 # Status emoji
 # status:

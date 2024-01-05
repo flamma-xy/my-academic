@@ -215,13 +215,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: PhD
-          company: Tokyo Institute of Technology
+          company: University X
           company_url: 'https://www.titech.ac.jp/english'
           company_logo: tokyotech
           location: Tokyo, Japan
           date_start: '2021-01-01'
           date_end: ''
-          advisor: 'https://wowchemy.com/docs/content/writing-markdown-latex/#links'
+          advisor: ''
           description: |2-
               Responsibilities include: [**_a_**](https://www.titech.ac.jp/english)
         - title: MSc

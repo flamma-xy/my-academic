@@ -152,7 +152,7 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  - block: collection
+  - block: markdown
     content:
       title: Gallery
       subtitle: ''
@@ -160,6 +160,11 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: Gallery2
+      text: |-
+        {{< gallery album="demo2" >}}  
   # - block: collection
   #   id: featured
   #   content:

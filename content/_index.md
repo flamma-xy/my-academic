@@ -160,13 +160,6 @@ sections:
         {{< gallery album="demo2" >}}
     design:
       columns: '1'
-    gallery_item:
-      - album: demo2
-        image: 1.jpg
-        caption: sex
-      - album: demo2
-        image: 2.jpg
-        caption: sex2
   # - block: collection
   #   id: featured
   #   content:
@@ -296,6 +289,14 @@ sections:
           captcha: false
     design:
       columns: '2'
+
+  gallery_item:
+    - album: demo2
+      image: 1.jpg
+      caption: sex
+    - album: demo2
+      image: 2.jpg
+      caption: sex2
 ---
 
 

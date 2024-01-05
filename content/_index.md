@@ -154,17 +154,12 @@ sections:
   #     flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Gallery_test
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
     design:
-      columns: '1'
-  - block: markdown
-    content:
-      title: Gallery2
-      text: |-
-        {{< gallery album="demo2" >}}  
+      columns: '1'  
   # - block: collection
   #   id: featured
   #   content:
